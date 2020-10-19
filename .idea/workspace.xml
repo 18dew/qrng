@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084d7115-5590-44a7-bb3b-b1d5861cca15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-    </list>
+    <list default="true" id="084d7115-5590-44a7-bb3b-b1d5861cca15" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +34,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="567" y="184" key="CommitChangelistDialog2" timestamp="1603108834009">
+    <state x="567" y="184" key="CommitChangelistDialog2" timestamp="1603109611922">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="567" y="184" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1603108834009" />
-    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1603108906482">
+    <state x="567" y="184" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1603109611922" />
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1603109619973">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1603108906482" />
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1603109619973" />
   </component>
 </project>
