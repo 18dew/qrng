@@ -15,7 +15,7 @@ type ApiResponse struct {
 
 // queryDefaultSize will request ten numbers from the API.
 func queryDefaultSize(dt datatype) ([]uint, error) {
-	return queryApi(dt, 16)
+	return queryApi(dt, 8)
 }
 
 // queryApi performs the actual request against the anu.edu servers.
