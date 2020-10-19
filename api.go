@@ -27,6 +27,5 @@ func queryApi(dt datatype, size int) ([]uint, error) {
 	}
 	resp := new(ApiResponse)
 	json.NewDecoder(response.Body).Decode(resp)
-	fmt.Println(resp.Data, query)
 	return resp.Data, nil
 }
