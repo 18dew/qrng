@@ -39,7 +39,7 @@ func FetchE2EEKey() (string, error) {
 		return "", err
 	}
 	for i, s := range numbers {
-		if i%4 == 0 {
+		if i%2 == 0 {
 			res := big.NewInt(int64(s)).Text(16)
 			if len(res) == 3 {
 				res = "0" + res
